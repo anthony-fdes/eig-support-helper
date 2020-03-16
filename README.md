@@ -4,9 +4,9 @@ How to Install the plugin?
 
 <ul>
 	<li>Download the Plugin folder to your local machine</li>
-	<li>Visit <a href="chrome://extensions">chrome://extensions/</a> </li>
-	<li>Enable the "Developers Mode" on the top right hand corner</li>
-	<li>On the left hand side click on Load unpacked</li>
+	<li>Visit <b>chrome://extensions/ </b></li>
+	<li>Enable the <b>"Developers Mode"</b> on the top right hand corner</li>
+	<li>On the left hand side click on <b>Load unpacked</b></li>
 	<li>Select the folder containing the plugin files <b>eg: eig-support-helper</b></li>
 </ul>
 
