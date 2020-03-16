@@ -1,8 +1,17 @@
-* Install the Chrome Extension by downloading it from here: <a href="http://anthonyfernandes.in/eig-support-helper.crx">Download Plugin</a>
+Install the Chrome Extension by downloading it from here: <a href="https://github.com/anthony-fdes/eig-support-helper.git">Download Plugin</a>
 
-* How to Install the plugin?
+How to Install the plugin?
 
-Download the CRX file to your computer for the Chrome extension you want to install. Open your Google Chrome web browser. Go to chrome://extensions/ and check the box for Developer mode in the top right. Click on the “Load unpacked” button, and go to the location of this content of this CRX file.
+<ul>
+	<li>Download the Plugin folder to your local machine</li>
+	<li>Visit chrome://extensions/ </li>
+	<li>Enable the "Developers Mode" on the top right hand corner</li>
+	<li>On the left hand side click on Load unpacked</li>
+	<li>Select the folder containing the plugin files <b>eg: eig-support-helper</b></li>
+</ul>
+
+
+<b>Usage:</b>
 
 * Select the Domain name and select `EIG Support Helper.`
 
