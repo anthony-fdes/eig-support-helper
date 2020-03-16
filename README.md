@@ -4,6 +4,7 @@ How to Install the plugin?
 
 <ul>
 	<li>Download the Plugin folder to your local machine</li>
+	<li>Unzip the downloaded plugin</li>
 	<li>Visit <b>chrome://extensions/ </b></li>
 	<li>Enable the <b>"Developers Mode"</b> on the top right hand corner</li>
 	<li>On the left hand side click on <b>Load unpacked</b></li>
