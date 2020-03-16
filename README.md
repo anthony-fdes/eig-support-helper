@@ -1,4 +1,4 @@
-Install the Chrome Extension by downloading it from here: <a href="https://github.com/anthony-fdes/eig-support-helper.git">Download Plugin</a>
+Install the Chrome Extension by downloading it from here: <a href="https://github.com/anthony-fdes/eig-support-helper/archive/master.zip">Download Plugin</a>
 
 How to Install the plugin?
 
