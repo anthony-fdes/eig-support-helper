@@ -22,6 +22,7 @@ You can view the following details directly:
 	<li>Domains WHOIS Details</li>
 	<li>Domains Into DNS Details</li>
 	<li>Domains Blacklist check on MX Tool Box</li>
+	<li>Domains DNS Records on https://www.whatsmydns.net/ </li>
 </ul>
 
 <img src="https://i.imgur.com/X1Juc0K.png">
